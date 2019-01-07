@@ -1,13 +1,16 @@
-//-------------------------------------------------------------------------------
-//  TinyCircuits Compass TinyShield Example Sketch
-//  Using Honeywell HMC5883 in I2C mode
-//
-//  Created 2/16/2014
-//  by Ken Burns, TinyCircuits http://Tiny-Circuits.com
-//
-//  This example code is in the public domain.
-//
-//-------------------------------------------------------------------------------
+/*
+  TinyCircuits Compass TinyShield Example Sketch
+  Using Honeywell HMC5883 in I2C mode
+  
+  This example code is in the public domain.
+
+  Written 16 February 2014
+  By Ken Burns
+  Modified 07 January 2019
+  By Hunter Hykes
+
+  https://TinyCircuits.com
+*/
 
 #include <Wire.h>
 
